@@ -1,7 +1,7 @@
-<h1 align="center">Hola👋me llamo Lisbeth E Polidor S</h1>
+<h1 align="center">Hola soy Lisbeth E Polidor S</h1>
 <h3 align="center">Soy un frontend developer apasionada por la tecnologia</h3>
 
-- 💬 Ask me about **HTML CSS JavaScript**
+- 💬 Ask me about **Creacion de pag Web adaptadas a distintos dispositivos.**
 
 - 📫 How to reach me **polidor.lisbeth4@gmail.com**
 
