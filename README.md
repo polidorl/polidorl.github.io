@@ -1,7 +1,9 @@
 <h1 align="center">Hola soy Lisbeth E Polidor S</h1>
 <h3 align="center">Soy un frontend developer apasionada por la tecnologia</h3>
 
-- 💬 Ask me about **Creacion de pag Web adaptadas a distintos dispositivos.**
+- Realizando cursos de: **Diseno para Developers/Diseño web con css grid y flexbox**
+
+- Ask me about **Creacion de pag Web adaptadas a distintos dispositivos.**
 
 - 📫 How to reach me **polidor.lisbeth4@gmail.com**
 
